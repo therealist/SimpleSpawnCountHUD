@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "SimpleSpawnCountHUD"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Displays number of spawn points on map in upper left: Hunters, Props, Both. Also shows map name."
+        "override"          "0"
+}
